@@ -1,0 +1,7 @@
+
+#ts les fichiers log  nn suivi
+*.log
+#dossier ds le contenu ne va pas etre suivi
+/NotTrachkedFiles/
+#fichier nn suivi
+testNot.txt
